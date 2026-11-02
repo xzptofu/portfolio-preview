@@ -1,0 +1,5 @@
+:HL["/portfolio-preview/_next/static/chunks/02b9zuz411-r3.css","style"]
+:HL["/portfolio-preview/_next/static/chunks/09.03b4avqcsx.css","style"]
+:HL["/portfolio-preview/fonts/geist-latin-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/portfolio-preview/fonts/newsreader-latin-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"h4cI3OAS5AhNBkdjNdcRr"}

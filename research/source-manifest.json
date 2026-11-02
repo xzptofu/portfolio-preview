@@ -1,0 +1,41 @@
+{
+  "paper_figure": {
+    "file": "neurips2024-figure-3b.png",
+    "sha256": "84240043a52ea3e8d88141cddc40d5acc40a4996543523f46162b277b1a61db6",
+    "bytes": 109513,
+    "width": 1098,
+    "height": 822,
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/5d1233f819202ade06023346df80a6d2-Paper-Conference.pdf",
+    "source_pdf_sha256": "ddd3a18ee740e97eb1b38f75f4fc150c87d969f1e62e7e119864cab1a996c46b",
+    "pdf_page": 9,
+    "figure": "3(b)",
+    "crop_pdf_points": {
+      "x": 210.5,
+      "y": 638.5,
+      "width": 91.5,
+      "height": 68.5
+    },
+    "pixels_per_point": 12
+  },
+  "paper_interactive_chart": {
+    "file": "../../app/components/paper-chart-data.ts",
+    "sha256": "35318d779cd97d0fc671e555701b847c251f4097cc98d0f8f8b0e80cfc358c78",
+    "bytes": 27635,
+    "source_pdf_sha256": "ddd3a18ee740e97eb1b38f75f4fc150c87d969f1e62e7e119864cab1a996c46b",
+    "pdf_page": 9,
+    "figure": "3(b)",
+    "processing": "Original PDF vector paths and axis ticks mapped affinely to an 800 x 500 viewBox, rounded to 0.001 units; colors and layout adjusted.",
+    "additional_guides_at_tasks": [50, 100, 150]
+  },
+  "pynol_architecture": {
+    "file": "pynol-architecture.png",
+    "sha256": "f8240d06355b9826d63d3041b1d69715fe45bd4f7ed11c12fc6d7660c63d546a",
+    "bytes": 47338,
+    "width": 1783,
+    "height": 842,
+    "source_url": "https://github.com/xzptofu/PyNOL/blob/xzp/docs/_static/figures/PyNOL_structure.png",
+    "source_git_blob_sha": "7646262c79b56b4a4f88876e7d0a58a0498d731d",
+    "processing": "Unmodified original file",
+    "license": "PyNOL-LICENSE.txt"
+  }
+}
