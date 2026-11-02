@@ -1,0 +1,219 @@
+[
+  {
+    "url": "https://xzptofu.github.io/archive-layout-with-content/",
+    "sha256": "04158ab48da10245780e6f693e89f4fcebe927b31f7ebf28207814f34d84c9b9",
+    "files": [
+      "public/archive-layout-with-content/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/categories/",
+    "sha256": "c632ac5dc19499243ada2c494a11af45acb016ed957c630a86ec872796987997",
+    "files": [
+      "public/categories/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/collection-archive/",
+    "sha256": "ac0896ce3bc03b3234445d24ca71057f01f74ab93f9907f87f6813f060100897",
+    "files": [
+      "public/collection-archive/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/cv/",
+    "sha256": "7df74ce971d716cf6ba6dceb5eacbf3f72adf3d2aaad8e4064eb778c60f9890e",
+    "files": [
+      "public/cv/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/markdown/",
+    "sha256": "aa6e2e068a43c05988198cf28fe43c85e015702aa4ba8e8a6329a5cd7f359215",
+    "files": [
+      "public/markdown/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/markdown_generator/",
+    "sha256": "8b2e8a0fec332ba7cc95c90e3c990d11caa5bbdfcdd42c17cc6fc9d7979e4bfa",
+    "files": [
+      "public/markdown_generator/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/non-menu-page/",
+    "sha256": "ad72293d2635a2bf1a41df0b78a13e2db802a9eff538d6631ccc3107f225ae65",
+    "files": [
+      "public/non-menu-page/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/page-archive/",
+    "sha256": "99bb6d0d6be7ee7489ec53603a1e5d59726090e82a081c99cb8a8939c59695d5",
+    "files": [
+      "public/page-archive/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/portfolio/",
+    "sha256": "405bb94d5eec09682b0bef984684a8c05e3fa459e04f884cfb64b5bc276a8b77",
+    "files": [
+      "public/portfolio/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/portfolio/portfolio-1/",
+    "sha256": "449d504722c558f0b8e58c8d6e5c6c8236745ddacdc7df52cd6e988ae005ba10",
+    "files": [
+      "public/portfolio/portfolio-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/portfolio/portfolio-2/",
+    "sha256": "2b5fd978c9c8bbd5f90d6a7b8720d30671e11ac7e36746c6c8e867deb5e64164",
+    "files": [
+      "public/portfolio/portfolio-2/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/posts/2012/08/blog-post-1/",
+    "sha256": "7c9934d760b8bf7a26a2fbb9423239403385a726b916527120629dca3ecf2659",
+    "files": [
+      "public/posts/2012/08/blog-post-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/posts/2012/08/blog-post-4/",
+    "sha256": "327c8ff863e521af2b8b2899063250a67e0a92084b4b1b81947a7f12b3317ac6",
+    "files": [
+      "public/posts/2012/08/blog-post-4/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/posts/2013/08/blog-post-2/",
+    "sha256": "b047b685378e173fd8d5e2dc655fb74e03c3641612a249eccac24c52fa047156",
+    "files": [
+      "public/posts/2013/08/blog-post-2/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/posts/2014/08/blog-post-3/",
+    "sha256": "9a2d161c9525845af542e4f33155521e1cd484178a5a0161270fdf56a63fd4ae",
+    "files": [
+      "public/posts/2014/08/blog-post-3/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/publication/2024-09-28-NeurIPS-2024-Xu",
+    "sha256": "fca7b1cf54a0adf48819f9ed33abde16e9b2601c32d6cd5f2510d046b14b1514",
+    "files": [
+      "public/publication/2024-09-28-NeurIPS-2024-Xu.html",
+      "public/publication/2024-09-28-NeurIPS-2024-Xu/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/sitemap/",
+    "sha256": "cc869a175ae6b73a5a96758bb39e8fa6dc5a5c2643ad8a31c071b36ba18e4418",
+    "files": [
+      "public/sitemap/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/tags/",
+    "sha256": "48cd0491051adb95d26885298cbdd54ad132cdb12904ba3572494898d1323bb4",
+    "files": [
+      "public/tags/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talkmap.html",
+    "sha256": "08dd0b3b9400e7f2cb4822f43159e953c1cce2a77a54ddd547a9be82a58f7c02",
+    "files": [
+      "public/talkmap.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talkmap/map.html",
+    "sha256": "42468267430ada7146dd86b031645cea574f42dd4a26c05c318916febe9fc3d8",
+    "files": [
+      "public/talkmap/map.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talks/",
+    "sha256": "9ce3cf282b0e61134341343a3129d8f13d02b1df41d9238a3d6eb73ff36665e5",
+    "files": [
+      "public/talks/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talks/2012-03-01-talk-1",
+    "sha256": "3a2034c98d8f975cf47da67a0aa1ccaef7ef250977086e2e2d3e2eeecf28f0aa",
+    "files": [
+      "public/talks/2012-03-01-talk-1.html",
+      "public/talks/2012-03-01-talk-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talks/2013-03-01-tutorial-1",
+    "sha256": "fadea9a125d9187ad797e11b54ad389e8f34fdb50cc3f0fe1cc778bca2c20c14",
+    "files": [
+      "public/talks/2013-03-01-tutorial-1.html",
+      "public/talks/2013-03-01-tutorial-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talks/2014-02-01-talk-2",
+    "sha256": "53cab8fb9fd135efb258261c0babc29743e7d651fcb7c03a1f0f637b59df49af",
+    "files": [
+      "public/talks/2014-02-01-talk-2.html",
+      "public/talks/2014-02-01-talk-2/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/talks/2014-03-01-talk-3",
+    "sha256": "840d9921d81f52ec2e4aaf6d876475c5501cde107093cf5d39f32c15f0b0aeb7",
+    "files": [
+      "public/talks/2014-03-01-talk-3.html",
+      "public/talks/2014-03-01-talk-3/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/teaching/",
+    "sha256": "8440a4d4ce65cb568bf700e03a93668f53cbf743433f1df3bb23c3a36c21262e",
+    "files": [
+      "public/teaching/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/teaching/2014-spring-teaching-1",
+    "sha256": "695c64e567c3c19924f35b812e88b6738b07f85fb9b2ced676297ff1113f593c",
+    "files": [
+      "public/teaching/2014-spring-teaching-1.html",
+      "public/teaching/2014-spring-teaching-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/teaching/2015-spring-teaching-1",
+    "sha256": "a559b9123e775583c487b3f62e776ca87125f5c250a56c9589f1ab42b99c9cf9",
+    "files": [
+      "public/teaching/2015-spring-teaching-1.html",
+      "public/teaching/2015-spring-teaching-1/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/terms/",
+    "sha256": "905e23e20cc24c3d9c2dd251f25d6bf7dab86ae567e9d06c84013ff00e700df8",
+    "files": [
+      "public/terms/index.html"
+    ]
+  },
+  {
+    "url": "https://xzptofu.github.io/year-archive/",
+    "sha256": "c71ce66663a3826d33a8bf27dfe9dca1a1a92bf0db49e604bec79c018ade4c1b",
+    "files": [
+      "public/year-archive/index.html"
+    ]
+  }
+]

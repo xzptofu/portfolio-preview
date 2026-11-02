@@ -6,12 +6,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://xzptofu.github.io"),
   title: "Zhipan Xu — Personal Homepage",
   description: "Zhipan Xu is an EECS MEng student at UC Berkeley working on quantitative research, production machine learning, and adaptive learning systems.",
-  robots: { index: false, follow: false },
   icons: { icon: sitePath("/favicon.svg") },
   openGraph: {
     title: "Zhipan Xu — Personal Homepage",
     description: "Quantitative research, online learning, and production machine learning.",
-    url: "https://xzptofu.github.io/portfolio-preview/",
+    url: "https://xzptofu.github.io/",
     siteName: "Zhipan Xu",
     type: "website",
     images: [{ url: sitePath("/og-quant.png"), width: 1200, height: 630, alt: "Zhipan Xu — Quantitative research and machine learning" }],
