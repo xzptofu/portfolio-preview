@@ -23,7 +23,7 @@ function TopicDetail({ topic, onClose, inline = false }: { topic: Topic; onClose
 }
 
 function Introduction() {
-  return <section className={s.intro} id="about"><h1>Zhipan Xu <span lang="zh">许知攀</span></h1><figure className={s.introPortrait}><img src={profile.portrait} width="256" height="256" alt="Zhipan Xu" /></figure><p className={s.introBiography}>I am a graduate student in <a href={academicLinks.department}>Electrical Engineering and Computer Sciences</a> at <a href={academicLinks.berkeley}>UC Berkeley</a>. Previously, I received my B.S. from the <a href={academicLinks.nanjingCS}>School of Computer Science</a>, <a href={academicLinks.nanjing}>Nanjing University</a>, where I was very fortunate to be advised by <a href={academicLinks.advisor}>Prof. Lijun Zhang</a> in the <a href={academicLinks.lab}>LAMDA</a> Group, led by <a href={academicLinks.labLead}>Prof. Zhi-Hua Zhou</a>.</p></section>;
+  return <section className={s.intro} id="about"><h1>Zhipan Xu</h1><figure className={s.introPortrait}><img src={profile.portrait} width="256" height="256" alt="Zhipan Xu" /></figure><p className={s.introBiography}>I am a graduate student in <a href={academicLinks.department}>Electrical Engineering and Computer Sciences</a> at <a href={academicLinks.berkeley}>UC Berkeley</a>. Previously, I received my B.S. from the <a href={academicLinks.nanjingCS}>School of Computer Science</a>, <a href={academicLinks.nanjing}>Nanjing University</a>, where I was very fortunate to be advised by <a href={academicLinks.advisor}>Prof. Lijun Zhang</a> in the <a href={academicLinks.lab}>LAMDA</a> Group, led by <a href={academicLinks.labLead}>Prof. Zhi-Hua Zhou</a>.</p></section>;
 }
 
 const experienceSummaries: Record<string, string> = {

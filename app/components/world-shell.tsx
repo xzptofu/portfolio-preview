@@ -5,7 +5,7 @@ import s from "./interactive-world-prototype.module.css";
 export function WorldHeader() {
   return (
     <header className={s.header}>
-      <a href={sitePath("/#top")} className={s.brand}>Zhipan Xu <span lang="zh">许知攀</span></a>
+      <a href={sitePath("/#top")} className={s.brand}>Zhipan Xu</a>
       <nav aria-label="Main navigation">
         <a href={sitePath("/#world")}>Explore</a>
         <a href={sitePath("/projects/")}>Projects</a>
